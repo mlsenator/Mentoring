@@ -1,0 +1,6 @@
+C:\Users\Andrei_Shukailau\Desktop\second\HTTP\Client\bin\Debug\Client.dll
+C:\Users\Andrei_Shukailau\Desktop\second\HTTP\Client\bin\Debug\Client.pdb
+C:\Users\Andrei_Shukailau\Desktop\second\HTTP\Client\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andrei_Shukailau\Desktop\second\HTTP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Andrei_Shukailau\Desktop\second\HTTP\Client\obj\Debug\Client.dll
+C:\Users\Andrei_Shukailau\Desktop\second\HTTP\Client\obj\Debug\Client.pdb

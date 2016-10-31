@@ -1,0 +1,3 @@
+C:\Users\Andrei_Shukailau\Desktop\first\FibonacciUI\bin\Debug\FibonacciUI.exe.config
+C:\Users\Andrei_Shukailau\Desktop\first\FibonacciUI\obj\Debug\FibonacciUI.exe
+C:\Users\Andrei_Shukailau\Desktop\first\FibonacciUI\obj\Debug\FibonacciUI.pdb
