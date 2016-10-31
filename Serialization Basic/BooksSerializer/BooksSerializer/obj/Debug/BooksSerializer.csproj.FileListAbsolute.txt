@@ -1,0 +1,3 @@
+C:\Users\Andrei_Shukailau\Desktop\SerializationTask\BooksSerializer\BooksSerializer\bin\Debug\BooksSerializer.exe.config
+C:\Users\Andrei_Shukailau\Desktop\SerializationTask\BooksSerializer\BooksSerializer\obj\Debug\BooksSerializer.exe
+C:\Users\Andrei_Shukailau\Desktop\SerializationTask\BooksSerializer\BooksSerializer\obj\Debug\BooksSerializer.pdb
